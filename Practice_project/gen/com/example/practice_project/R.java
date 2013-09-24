@@ -29,7 +29,8 @@ public final class R {
         public static final int congrats=0x7f020000;
         public static final int flash=0x7f020001;
         public static final int ic_launcher=0x7f020002;
-        public static final int tied=0x7f020003;
+        public static final int mess2=0x7f020003;
+        public static final int tiegame=0x7f020004;
     }
     public static final class id {
         public static final int TicTacToeGrid=0x7f090003;

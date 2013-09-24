@@ -33,7 +33,7 @@ public class DisplayMessageActivity extends Activity {
 	    
 	    if (message.isEmpty()) {
 	    	message = "Game tied!";
-	    	drawable = getResources().getDrawable(R.drawable.tied);
+	    	drawable = getResources().getDrawable(R.drawable.tiegame);
 	    } else {
 	    	message = message + " wins the game!";
 	    	drawable = getResources().getDrawable(R.drawable.congrats);
