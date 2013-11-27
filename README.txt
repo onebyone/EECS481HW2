@@ -15,3 +15,4 @@ When one of the player wins or the game ties, it will automatically bring
 the players to the last view, where "congrats" or "tie game" will be
 presented correspondingly, and there is also a "new game" button for user
 to click to start a new game which is go back to the beginning interface. 
+hah
